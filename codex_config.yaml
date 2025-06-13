@@ -1,0 +1,23 @@
+codex:
+  title: TimerTok - 집중 루틴 타이머 게임
+  description: 오프라인에서도 즐길 수 있는 타이머 기반 게임형 앱의 개발 문서
+  owner: 홍길동
+  repository: https://github.com/gugu44/timertok
+  docs:
+    - /design/ux_flow.md
+    - /spec/feature_list.md
+    - /spec/level_design.md
+    - /spec/reward_system.md
+    - /test/qa_checklist.md
+    - /deploy/release_plan.md
+    - /marketing/launch_plan.md
+    - /feedback/user_insight.md
+    - /business/model_plan.md
+    - /roadmap/future_features.md
+  tags:
+    - flutter
+    - timer
+    - gamification
+    - productivity
+    - offline-app
+  entry: /design/ux_flow.md
